@@ -5,7 +5,7 @@
 #include "string.h"
 #include "iostream.h"
 #include "conio.h"
-class dars{
+class dars{ // this is cores class [dars == cores] 
 public:
 	int code;
 	char name[10];
